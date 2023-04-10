@@ -6,6 +6,8 @@ public class Day2Demo {
 		System.out.println("hello");
 		
 	String name = "John";
+	
+	String godzillaCall = "Oh no there goes Tokyo! go go Godzilla";
 	}
 /**
 
