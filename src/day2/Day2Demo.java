@@ -10,6 +10,10 @@ public class Day2Demo {
 	String godzillaCall = "Oh no there goes Tokyo! go go Godzilla";
 	String mongoose = "The mongoose flies";
 	
+		
+		System.out.println("Pushing 3rd time");
+		System.out.println("something is not right");
+		System.out.println("fu manchu");
 	}
 /**
 
